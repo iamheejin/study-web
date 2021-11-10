@@ -1,3 +1,10 @@
+# 웹 푸시 테스트
+
+client 에서 웹 푸시 선언, 알림 권한 요청, 푸시 구독, 푸시 구독 취소, 푸시 이벤트 발생시 노출
+
+참고 : https://developers.google.com/web/fundamentals/codelabs/push-notifications?hl=ko
+
+
 # Push Notifications codelab
 
 Code for the Web Fundamentals [Push Notifications codelab](https://codelabs.developers.google.com/codelabs/push-notifications/).
